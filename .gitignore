@@ -29,4 +29,5 @@ target/generated-test-souces
 target/maven-archiver
 target/maven-status
 target/surefire-reports
+
 target/test-classes
